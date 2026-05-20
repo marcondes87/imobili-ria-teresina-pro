@@ -1,0 +1,1 @@
+Primeiro acesso: vá em/Conecte-se, clique em "Criar conta" e cadastre o e-mail/senha da administradora. A primeira conta criada vira admin automaticamente. Depois é só clicar em "Painel" no menu e começar a publicar os imóveis.
